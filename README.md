@@ -1,5 +1,5 @@
 # ![Cre8bit logo](/logo.png) cre8bit-minified
-**This is a slightly minified version of cre8bitJS**
+**This is a slightly minified version of [cre8bitJS](https://www.npmjs.com/package/cre8bitjs)**
 ## Setup
 Via npm
 ```
