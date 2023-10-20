@@ -8,17 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daveknights/cre8bit-minified.git"
+    "url": "https://github.com/daveknights/cre8bit-minified.git"
   },
   "keywords": [
     "svg",
     "8bit",
-    "retro games"
+    "retro games",
+    "fun library"
   ],
   "author": "Dave Knights",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/daveknights/cre8bit-minified/issues"
   },
-  "homepage": "https://github.com/daveknights/cre8bit-minified#readme"
+  "homepage": "https://daveknights.github.io/cre8bit/"
 }
